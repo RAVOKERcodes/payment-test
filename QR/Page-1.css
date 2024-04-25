@@ -37,7 +37,7 @@
   margin-top: 10px;
   margin-bottom: 0;
   animation-timing-function: ease;
-  --radius: 50px;
+  --radius: 5px;
 }
 
 @media (max-width: 1199px) {
